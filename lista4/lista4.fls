@@ -1,0 +1,4 @@
+PWD d:/Users/Ramon/LaTeX Projects/sistemas-distribuidos/lista4
+INPUT C:/Users/Ramon/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt
+INPUT d:/Users/Ramon/LaTeX Projects/sistemas-distribuidos/lista4/lista4.tex
+OUTPUT lista4.log
